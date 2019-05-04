@@ -40,7 +40,7 @@ const client = new Discord.Client();
 
 
 // جميع حقوق هذا الملف محفوظة ,
-client.login('token'); // هنا تضع توكان البوت الخاص بك
+client.login('NTc0MzQ3MzAxNTA2Nzc3MTAw.XM4E3g.gpksTZ2IUUKiZgYTLQ-eK0eqO7s'); // هنا تضع توكان البوت الخاص بك
 
 
 
